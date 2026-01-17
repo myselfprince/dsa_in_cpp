@@ -1,0 +1,15 @@
+# VS Code temp code runner files
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.*
+
+# Compiled executable files (Windows & Linux)
+*.exe
+*.out
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Optional: VS Code settings folder
+.vscode/
