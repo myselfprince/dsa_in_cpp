@@ -5,7 +5,7 @@ Welcome to **DSA in C++**, an open-source repository created alongside my YouTub
 🎯 This repository is meant for **beginners to intermediate learners** who want to build strong fundamentals in **Data Structures & Algorithms** and prepare for **placements, interviews, and competitive programming**.
 
 📅 **Series Duration**
-- **Start Date:** 17th January 2026  
+- **Start Date:** 22nd January 2026  
 - **End Date:** 31st March 2026  
 
 ---
